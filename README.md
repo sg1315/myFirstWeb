@@ -13,10 +13,6 @@ IBA - 국제 바텐더 협회의 홈페이지를 본따 만든 웹페이지입�
 <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=Axios&logoColor=white"/>
 <img src="https://img.shields.io/badge/ReactHookForm-EC5990?style=flat-square&logo=ReactHookForm&logoColor=white"/>
 
-`Communication`
-<img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white">
-<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
-
 ## 설치 및 실행 방법
 ```bash
 git clone https://github.com/myuser/mytodoapp.git
