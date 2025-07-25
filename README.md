@@ -1,5 +1,5 @@
 # myFirstWeb
-React와 Spring Boot를 활용한 간단한 할 일 관리 앱입니다.
+IBA - 국제 바텐더 협회의 홈페이지를 본따 만든 웹페이지입니다.
 
 ## 프로젝트 개요
 - 개발 기간: 2025-02-19 ~ 2025-02-22
@@ -17,13 +17,6 @@ React와 Spring Boot를 활용한 간단한 할 일 관리 앱입니다.
 <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
 
-## 사용 라이브러리및 API
--
--
--
--
--
-
 ## 설치 및 실행 방법
 ```bash
 git clone https://github.com/myuser/mytodoapp.git
@@ -33,10 +26,6 @@ cd mytodoapp
 cd frontend
 npm install
 npm start
-
-# 백엔드
-cd backend
-./gradlew bootRun
 
 ## 주요 기능
 - 회원가입 및 로그인 (JWT 기반)
