@@ -1,28 +1,17 @@
-# MyTodoApp
+# myFirstWeb
 React와 Spring Boot를 활용한 간단한 할 일 관리 앱입니다.
 
 ## 프로젝트 개요
-- 개발 기간: 2023-00-00 ~ 2023-00-00
-- 서비스 링크: [https://mytodoapp.vercel.app](https://mytodoapp.vercel.app)
+- 개발 기간: 2025-02-19 ~ 2025-02-22
 - 본 프로젝트의 구조를 더 자세히 알고 싶다면?
-  - [백엔드 README](./BACK.md)
   - [프론트엔드 README](./FRONT.md)
 
 ## 기술 스택
 `Front-End` 
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat-square&logo=ReactQuery&logoColor=white"/>
 <img src="https://img.shields.io/badge/Recoil-black?style=flat-square&logo=Recoil&logoColor=white"/>
-<img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
 <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=Axios&logoColor=white"/>
 <img src="https://img.shields.io/badge/ReactHookForm-EC5990?style=flat-square&logo=ReactHookForm&logoColor=white"/>
-
-
-`Back-end`
-<img src="https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=Nestjs&logoColor=white">
-<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
 
 `Communication`
 <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white">
